@@ -12,6 +12,14 @@
     {
       "id": 3,
       "title": "morning"
+    },
+    {
+      "id": 4,
+      "title": "afternoon"
+    },
+    {
+      "id": 5,
+      "title": "night"
     }
   ]
 }
